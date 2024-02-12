@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @prateeksinghrajpt
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning data analysis
+ Hi, I’m @prateeksinghrajpt
+ I’m interested in data analysis and data science
+ I’m data analyst and data science learner
   
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 prateeksinghrajpt/prateeksinghrajpt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
