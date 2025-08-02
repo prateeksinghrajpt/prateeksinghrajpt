@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 About Me
 
-I’m a **recent graduate from Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat**. With a passion for transforming data into actionable insights, I have worked on several real-world projects ranging from **predictive modeling** and **statistical analysis** to **business intelligence** and **ML-based forecasting**.
+I’m a **recent graduate from Sardar Vallabhbhai National Institute of Technology (NIT Surat), Surat**. With a passion for transforming data into actionable insights, I have worked on several real-world projects ranging from **predictive modeling** and **statistical analysis** to **business intelligence** and **ML-based forecasting**.
 
 - 💡 **Aspiring Data Scientist** with a strong foundation in data preprocessing, EDA, supervised learning, and business problem-solving  
 - 📊 Experienced in **data analytics**, **ML pipelines**, and **storytelling through data visualization**
