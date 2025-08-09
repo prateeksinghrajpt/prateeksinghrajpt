@@ -15,7 +15,7 @@ I’m a **recent graduate from Sardar Vallabhbhai National Institute of Technolo
 
 - 💡 **Aspiring Data Scientist** with a strong foundation in data preprocessing, EDA, supervised learning, and business problem-solving  
 - 📊 Experienced in **data analytics**, **ML pipelines**, and **storytelling through data visualization**
-- 🧠 Solved **300+ LeetCode problems** to strengthen my problem-solving and algorithmic thinking
+- 🧠 Solved **500+ LeetCode problems** to strengthen my problem-solving and algorithmic thinking
 - 📚 Interned at **IIT Roorkee** and **Infotact Solutions**, working on high-impact analytical and computer vision projects
 - 🔍 Passionate about driving data-backed decisions across finance, marketing, and consumer behavior
 
